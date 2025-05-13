@@ -374,7 +374,7 @@ function App() {
             <div>
               <h4 className="font-bold mb-2">Job Description</h4>
               <ul className="list-disc pl-6 space-y-2">
-                {ocvpEventsResponsibilities.map((resp, index) => (
+                {ocvpWebDevResponsibilities.map((resp, index) => (
                   <li key={index} className="text-gray-300">{resp}</li>
                 ))}
               </ul>
@@ -383,7 +383,7 @@ function App() {
             <div className="mb-6 mt-6">
               <h4 className="font-bold mb-2">Experience</h4>
               <ul className="list-disc pl-6 space-y-2">
-                {ocvpEventsSkills.map((skill, index) => (
+                {ocvpWebDevSkills.map((skill, index) => (
                   <li key={index} className="text-gray-300">{skill}</li>
                 ))}
               </ul>
@@ -392,7 +392,7 @@ function App() {
             <div>
               <h4 className="font-bold mb-2">KPI / MoS</h4>
               <ul className="list-disc pl-6 space-y-2">
-                { ocvpEventsKPIs.map((kpi, index) => (
+                { ocvpWebDevKPIs.map((kpi, index) => (
                   <li key={index} className="text-gray-300">{kpi}</li>
                 ))}
               </ul>
