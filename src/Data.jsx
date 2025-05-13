@@ -31,7 +31,7 @@ const ocpKPIs = [
     "# of membership re-applying for Organizing Committees",
     "% of Time Management for Deadlines",
     "# of monetary & non-monetary partnerships raised",
-    "# of OGX sugnups"
+    "# of OGX signups"
 
 ];
 
@@ -47,7 +47,7 @@ const ocvpDelegatesResponsibilities = [
     "Prepare delegates servicing requirement list and timeline",
     "Prepare and send out delegate mails",
     "Delegate communication and follow up",
-    "Synergize with MKT VP’s to create delegate attraction campaigns",
+    "Synergize with MKT VPs to create delegate attraction campaigns",
     "Manage delegate registrations",
     "Facilitate delegate requirements during the event",
     "Managing all issues and conflicts regarding delegates",
