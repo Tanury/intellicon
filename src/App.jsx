@@ -33,7 +33,7 @@ function App() {
         {/* Header */}
         <header className="mb-8">
           <h1 className="text-2xl mb-4  text-blue-500 font-bold ">AIESEC in SLIIT</h1>
-          <div className="bg-red-500 text-black p-4 rounded-lg mb-4">
+          <div className="bg-blue-300 text-black p-4 rounded-lg mb-4">
             <h2 className="text-2xl font-bold ">IntelliCon '25</h2>
           </div>
           
@@ -414,7 +414,7 @@ function App() {
 
         <div className='mt-10 mb-14'>
           <a href="https://forms.gle/u9pwmSCjjtZMPCCr9">
-          <button className='w-full bg-red-500 p-2 rounded-2xl hover:bg-red-800 hover:cursor-pointer text-lg '>
+          <button className='w-full bg-blue-300 p-2 rounded-2xl hover:bg-blue-400 hover:cursor-pointer text-lg '>
             Apply Now!
           </button>
           </a>
