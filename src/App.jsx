@@ -32,6 +32,11 @@ function App() {
       <div className="max-w-4xl mx-auto">
         {/* Header */}
         <header className="mb-8">
+          <img 
+            src="/header-image.png" 
+            alt="IntelliCon 2025 Banner" 
+            className="w-full h-auto rounded-lg mb-4"
+          />
           <h1 className="text-2xl mb-4  text-blue-500 font-bold ">AIESEC in SLIIT</h1>
           <div className="bg-blue-300 text-black p-4 rounded-lg mb-4">
             <h2 className="text-2xl font-bold ">IntelliCon '25</h2>
