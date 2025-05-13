@@ -424,26 +424,27 @@ function App() {
           </button>
           </a>
         </div>
-              <footer className="bg-blue-400 text-black p-4 mt-8">
-  <div className="max-w-4xl mx-auto flex justify-between items-center">
+        <footer className="bg-blue-200 text-black p-4 mt-8">
+          <div className="max-w-4xl mx-auto flex justify-between items-center">
     
     {/* Left Side: Blue Logo */}
-    <img src="/Blue-Logo.png" alt="AIESEC Logo" className="w-24 h-auto" />
+    <img src="/Blue-Logo.png" alt="AIESEC Logo" className="w-28 h-auto" />
 
     {/* Center: Contact Info */}
     <div className="text-center">
       <h3 className="text-lg font-bold mb-1">Contact Us</h3>
       <p>Tanuri Dissanayaka - 077 620 2028 | tanuri.dissanayaka@aiesec.net </p>
       <p>Chelaka Wijesekara -  076 943 0928 | chelakanivain@aiesec.net </p>
-      <p className="mt-1 text-sm">All Rights Reserved</p>
+      <p className="mt-1 text-sm">@ IntelliCon '25 | Innovate. Inspire. Impact. All Rights Reserved</p>
     </div>
 
     {/* Right Side: Astral Logo */}
-    <img src="/astral-logo.png" alt="Astral Logo" className="w-24 h-auto" />
+    <img src="/astral-logo.png" alt="Astral Logo" className="w-28 h-auto" />
 
   </div>
 </footer>
       </div>
+                    
 
 
     </div>
