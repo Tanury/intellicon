@@ -44,7 +44,7 @@ function App() {
         <section className="mb-8 ">
           <h2 className="text-xl font-bold mb-4">Event Introduction</h2>
           <p className="text-gray-300">
-            <span className="bg-red-500 text-black px-2 py-1 rounded mr-2">IntelliCon '25</span>
+            <span className="bg-blue-300 text-black px-2 py-1 rounded mr-2">IntelliCon '25</span>
             is the ultimate Artificial Intelligence experience, where innovation meets impact. Designed to ignite curiosity and inspire action, we bring together future leaders to explore the frontiers of AI, its real world applications, and its role in shaping tomorrow.
 
           </p>
