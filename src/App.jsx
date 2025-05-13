@@ -32,7 +32,7 @@ function App() {
        <img 
             src="/header-image.png" 
             alt="IntelliCon 2025 Banner" 
-            className="w-full h-auto"
+            className="w-full h-auto mb-8"
           />
       <div className="max-w-4xl mx-auto">
         {/* Header */}
